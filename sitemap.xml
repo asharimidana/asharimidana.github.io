@@ -13,7 +13,27 @@
   </url>
   
   <url>
+    <loc>https://boksfisika.web.id/categories/</loc>
+    <lastmod>2021-12-30T17:40:32+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://boksfisika.web.id/blog/contoh-postingan/</loc>
+    <lastmod>2021-12-30T17:40:32+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://boksfisika.web.id/categories/golang/</loc>
+    <lastmod>2021-12-30T17:40:32+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://boksfisika.web.id/tags/hugo/</loc>
+    <lastmod>2021-12-30T17:40:32+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://boksfisika.web.id/tags/</loc>
     <lastmod>2021-12-30T17:40:32+08:00</lastmod>
   </url>
   
@@ -30,14 +50,6 @@
   <url>
     <loc>https://boksfisika.web.id/post/</loc>
     <lastmod>2021-12-30T11:40:57+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://boksfisika.web.id/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://boksfisika.web.id/tags/</loc>
   </url>
   
 </urlset>
