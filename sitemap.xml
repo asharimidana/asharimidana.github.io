@@ -3,22 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://asharimidana.github.io/</loc>
+    <lastmod>2022-02-03T10:43:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://asharimidana.github.io/blog/</loc>
+    <lastmod>2022-02-03T10:43:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://asharimidana.github.io/blog/cara-install-dwm-di-ubuntu/</loc>
+    <lastmod>2022-02-03T10:43:59+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://asharimidana.github.io/about/</loc>
     <lastmod>2021-12-31T12:44:19+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://asharimidana.github.io/</loc>
-    <lastmod>2021-12-30T17:40:32+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://asharimidana.github.io/blog/belajar-menulis-markdown/</loc>
-    <lastmod>2021-12-30T17:40:32+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://asharimidana.github.io/blog/</loc>
     <lastmod>2021-12-30T17:40:32+08:00</lastmod>
   </url>
   
