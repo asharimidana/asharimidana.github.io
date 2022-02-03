@@ -18,6 +18,26 @@
   </url>
   
   <url>
+    <loc>https://asharimidana.github.io/categories/</loc>
+    <lastmod>2022-02-03T10:43:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://asharimidana.github.io/tags/dwm/</loc>
+    <lastmod>2022-02-03T10:43:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://asharimidana.github.io/tags/</loc>
+    <lastmod>2022-02-03T10:43:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://asharimidana.github.io/categories/window-manager/</loc>
+    <lastmod>2022-02-03T10:43:59+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://asharimidana.github.io/about/</loc>
     <lastmod>2021-12-31T12:44:19+08:00</lastmod>
   </url>
@@ -35,15 +55,6 @@
   <url>
     <loc>https://asharimidana.github.io/tags/markdown/</loc>
     <lastmod>2021-12-30T17:40:32+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://asharimidana.github.io/tags/</loc>
-    <lastmod>2021-12-30T17:40:32+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://asharimidana.github.io/categories/</loc>
   </url>
   
 </urlset>
