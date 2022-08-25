@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>qutebrowser on 307</title>
+    <link>https://asharimidana.github.io/tags/qutebrowser/</link>
+    <description>Recent content in qutebrowser on 307</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 12 Feb 2022 10:47:13 +0800</lastBuildDate>
+    
+	<atom:link href="https://asharimidana.github.io/tags/qutebrowser/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cara Menggunakan Qutebrowser</title>
+      <link>https://asharimidana.github.io/blog/qutebrowser/</link>
+      <pubDate>Sat, 12 Feb 2022 10:47:13 +0800</pubDate>
+      
+      <guid>https://asharimidana.github.io/blog/qutebrowser/</guid>
+      <description>Qutebrowser adalah browser yang ringan.</description>
+    </item>
+    
+  </channel>
+</rss>

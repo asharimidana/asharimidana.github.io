@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 307</title>
+    <link>https://asharimidana.github.io/tags/</link>
+    <description>Recent content in Tags on 307</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 13 Feb 2022 09:10:53 +0800</lastBuildDate>
+    
+	<atom:link href="https://asharimidana.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>terminal</title>
+      <link>https://asharimidana.github.io/tags/terminal/</link>
+      <pubDate>Sun, 13 Feb 2022 09:10:53 +0800</pubDate>
+      
+      <guid>https://asharimidana.github.io/tags/terminal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>qutebrowser</title>
+      <link>https://asharimidana.github.io/tags/qutebrowser/</link>
+      <pubDate>Sat, 12 Feb 2022 10:47:13 +0800</pubDate>
+      
+      <guid>https://asharimidana.github.io/tags/qutebrowser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dwm</title>
+      <link>https://asharimidana.github.io/tags/dwm/</link>
+      <pubDate>Thu, 03 Feb 2022 10:43:59 +0800</pubDate>
+      
+      <guid>https://asharimidana.github.io/tags/dwm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://asharimidana.github.io/tags/hugo/</link>
+      <pubDate>Thu, 30 Dec 2021 17:40:32 +0800</pubDate>
+      
+      <guid>https://asharimidana.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://asharimidana.github.io/tags/markdown/</link>
+      <pubDate>Thu, 30 Dec 2021 17:40:32 +0800</pubDate>
+      
+      <guid>https://asharimidana.github.io/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+
+
+
+.post-content h2, 
+.post-content h3, 
+.post-content h4, 
+.post-content h5,
+.post-content h6 {
+    /* font-family: Roboto, Sans; */
+    margin: 2em 0;
+}  
+
+.post-content img {
+    max-width: 100%;
+}
+.bg-utama {
+    background-color: #d61c98;
+}
+.text-utama {
+    color: #2b5a88;
+}
+.tagline {
+    border-bottom: 3px solid #ce8601;
+}
+@media only screen and (min-width : 768px) {
+    .border-md {
+        border: 1px solid rgba(0,0,0,.125);
+        border-radius: 0.25rem;
+    }
+}
+

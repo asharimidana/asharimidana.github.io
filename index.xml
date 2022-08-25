@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>307</title>
+    <link>https://asharimidana.github.io/</link>
+    <description>Recent content on 307</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 31 Dec 2021 12:44:19 +0800</lastBuildDate>
+    
+	<atom:link href="https://asharimidana.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Memodifikasi Tampilan Teminal Ubuntu</title>
+      <link>https://asharimidana.github.io/terminl/percantik-tampilan-teminal/</link>
+      <pubDate>Sun, 13 Feb 2022 09:10:53 +0800</pubDate>
+      
+      <guid>https://asharimidana.github.io/terminl/percantik-tampilan-teminal/</guid>
+      <description>Pada artikel kali ini kita akan membahas cara memodifikasi terminal di ubuntu, langsung saja kita langsung praktikan.</description>
+    </item>
+    
+    <item>
+      <title>Cara Menggunakan Qutebrowser</title>
+      <link>https://asharimidana.github.io/blog/qutebrowser/</link>
+      <pubDate>Sat, 12 Feb 2022 10:47:13 +0800</pubDate>
+      
+      <guid>https://asharimidana.github.io/blog/qutebrowser/</guid>
+      <description>Qutebrowser adalah browser yang ringan.</description>
+    </item>
+    
+    <item>
+      <title>Cara Install Dwm Di Ubuntu</title>
+      <link>https://asharimidana.github.io/blog/cara-install-dwm-di-ubuntu/</link>
+      <pubDate>Thu, 03 Feb 2022 10:43:59 +0800</pubDate>
+      
+      <guid>https://asharimidana.github.io/blog/cara-install-dwm-di-ubuntu/</guid>
+      <description>Pertama install depedenci sudo apt-get install build-essentials libx11-dev libxinerama-dev sharutils libxft-dev</description>
+    </item>
+    
+    <item>
+      <title>about_</title>
+      <link>https://asharimidana.github.io/about/</link>
+      <pubDate>Fri, 31 Dec 2021 12:44:19 +0800</pubDate>
+      
+      <guid>https://asharimidana.github.io/about/</guid>
+      <description>Who Am I?</description>
+    </item>
+    
+    <item>
+      <title>Belajar Menulis Markdown</title>
+      <link>https://asharimidana.github.io/blog/belajar-menulis-markdown/</link>
+      <pubDate>Thu, 30 Dec 2021 17:40:32 +0800</pubDate>
+      
+      <guid>https://asharimidana.github.io/blog/belajar-menulis-markdown/</guid>
+      <description>Belajar menulis markdown di hugo lengkap dan mudah dimengerti</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminls on 307</title>
+    <link>https://asharimidana.github.io/terminl/</link>
+    <description>Recent content in Terminls on 307</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 13 Feb 2022 09:10:53 +0800</lastBuildDate>
+    
+	<atom:link href="https://asharimidana.github.io/terminl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Memodifikasi Tampilan Teminal Ubuntu</title>
+      <link>https://asharimidana.github.io/terminl/percantik-tampilan-teminal/</link>
+      <pubDate>Sun, 13 Feb 2022 09:10:53 +0800</pubDate>
+      
+      <guid>https://asharimidana.github.io/terminl/percantik-tampilan-teminal/</guid>
+      <description>Pada artikel kali ini kita akan membahas cara memodifikasi terminal di ubuntu, langsung saja kita langsung praktikan.</description>
+    </item>
+    
+  </channel>
+</rss>
