@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>npm on 307</title>
+    <link>https://asharimidana.github.io/tags/npm/</link>
+    <description>Recent content in npm on 307</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 08 Sep 2022 13:39:18 +0800</lastBuildDate>
+    
+	<atom:link href="https://asharimidana.github.io/tags/npm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cara atasi Npm Error</title>
+      <link>https://asharimidana.github.io/blog/npm-error/</link>
+      <pubDate>Thu, 08 Sep 2022 13:39:18 +0800</pubDate>
+      
+      <guid>https://asharimidana.github.io/blog/npm-error/</guid>
+      <description>You need to set npm config registry just like this.</description>
+    </item>
+    
+  </channel>
+</rss>

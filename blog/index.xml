@@ -5,10 +5,19 @@
     <link>https://asharimidana.github.io/blog/</link>
     <description>Recent content in Blogs on 307</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 12 Feb 2022 10:47:13 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 08 Sep 2022 13:39:18 +0800</lastBuildDate>
     
 	<atom:link href="https://asharimidana.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cara atasi Npm Error</title>
+      <link>https://asharimidana.github.io/blog/npm-error/</link>
+      <pubDate>Thu, 08 Sep 2022 13:39:18 +0800</pubDate>
+      
+      <guid>https://asharimidana.github.io/blog/npm-error/</guid>
+      <description>You need to set npm config registry just like this.</description>
+    </item>
     
     <item>
       <title>Cara Menggunakan Qutebrowser</title>
