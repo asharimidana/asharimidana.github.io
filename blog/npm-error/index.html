@@ -12,7 +12,7 @@
 <meta itemprop="description" content="You need to set npm config registry just like this.">
 <meta itemprop="datePublished" content="2022-09-08T13:39:18&#43;08:00" />
 <meta itemprop="dateModified" content="2022-09-08T13:39:18&#43;08:00" />
-<meta itemprop="wordCount" content="15">
+<meta itemprop="wordCount" content="36">
 
 
 
@@ -178,7 +178,13 @@
               </p>
               <div class="post-content text-justify text-white">
                 <p>You need to set npm config registry just like this.</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">npm config set registry https://registry.npmjs.org/
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell"><span style="color:#75715e"># 1) Delete proxies</span>
+npm config rm proxy
+npm config rm https-proxy
+
+<span style="color:#75715e"># 2) Change Timeouts</span>
+npm config set fetch-retry-mintimeout <span style="color:#ae81ff">20000</span>
+npm config set fetch-retry-maxtimeout <span style="color:#ae81ff">120000</span>
 </code></pre></div>
               </div>
               <div class="col-sm-12 mt-3 d-flex-wraper pl-0">
