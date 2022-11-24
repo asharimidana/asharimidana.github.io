@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>neovim on 307</title>
+    <link>https://asharimidana.github.io/categories/neovim/</link>
+    <description>Recent content in neovim on 307</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 23 Nov 2022 20:57:09 +0800</lastBuildDate>
+    
+	<atom:link href="https://asharimidana.github.io/categories/neovim/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Text Editor Faforit Saya</title>
+      <link>https://asharimidana.github.io/blog/text-editor-faforit-saya/</link>
+      <pubDate>Wed, 23 Nov 2022 20:57:09 +0800</pubDate>
+      
+      <guid>https://asharimidana.github.io/blog/text-editor-faforit-saya/</guid>
+      <description>Pengalaman dan hobi saya menggunakan linux menghantarkan saya dengan yang namanya vim dan neovim.</description>
+    </item>
+    
+  </channel>
+</rss>
