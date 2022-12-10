@@ -5,10 +5,19 @@
     <link>https://asharimidana.github.io/categories/</link>
     <description>Recent content in Categories on 307</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 07 Dec 2022 21:31:57 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 10 Dec 2022 12:52:58 +0800</lastBuildDate>
     
 	<atom:link href="https://asharimidana.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ubuntu</title>
+      <link>https://asharimidana.github.io/categories/ubuntu/</link>
+      <pubDate>Sat, 10 Dec 2022 12:52:58 +0800</pubDate>
+      
+      <guid>https://asharimidana.github.io/categories/ubuntu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>dwm</title>
