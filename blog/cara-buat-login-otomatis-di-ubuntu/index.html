@@ -4,30 +4,30 @@
 <head>
   <script data-ad-client="ca-pub-9126848407157393" async
     src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-  <title>Text Editor Faforit Saya</title>
+  <title>Cara Buat Login Otomatis Di Ubuntu</title>
 
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-<meta itemprop="name" content="Text Editor Faforit Saya">
-<meta itemprop="description" content="Pengalaman dan hobi saya menggunakan linux menghantarkan saya dengan yang namanya vim dan neovim.">
-<meta itemprop="datePublished" content="2022-11-23T20:57:09&#43;08:00" />
-<meta itemprop="dateModified" content="2022-11-23T20:57:09&#43;08:00" />
-<meta itemprop="wordCount" content="102">
+<meta itemprop="name" content="Cara Buat Login Otomatis Di Ubuntu">
+<meta itemprop="description" content="langsung saja cara untuk membuat auto login di ubuntu yakni sebagai berikut:">
+<meta itemprop="datePublished" content="2022-12-20T06:33:29&#43;08:00" />
+<meta itemprop="dateModified" content="2022-12-20T06:33:29&#43;08:00" />
+<meta itemprop="wordCount" content="37">
 
 
 
-<meta itemprop="keywords" content="neovim," />
+<meta itemprop="keywords" content="autologin,ubuntu," />
 
-<meta property="og:title" content="Text Editor Faforit Saya" />
-<meta property="og:description" content="Pengalaman dan hobi saya menggunakan linux menghantarkan saya dengan yang namanya vim dan neovim." />
+<meta property="og:title" content="Cara Buat Login Otomatis Di Ubuntu" />
+<meta property="og:description" content="langsung saja cara untuk membuat auto login di ubuntu yakni sebagai berikut:" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://asharimidana.github.io/blog/text-editor-faforit-saya/" />
-<meta property="article:published_time" content="2022-11-23T20:57:09+08:00" />
-<meta property="article:modified_time" content="2022-11-23T20:57:09+08:00" />
+<meta property="og:url" content="https://asharimidana.github.io/blog/cara-buat-login-otomatis-di-ubuntu/" />
+<meta property="article:published_time" content="2022-12-20T06:33:29+08:00" />
+<meta property="article:modified_time" content="2022-12-20T06:33:29+08:00" />
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Text Editor Faforit Saya"/>
-<meta name="twitter:description" content="Pengalaman dan hobi saya menggunakan linux menghantarkan saya dengan yang namanya vim dan neovim."/>
+<meta name="twitter:title" content="Cara Buat Login Otomatis Di Ubuntu"/>
+<meta name="twitter:description" content="langsung saja cara untuk membuat auto login di ubuntu yakni sebagai berikut:"/>
 
 
 
@@ -167,14 +167,18 @@
                     Ashari Midana
                   </a>
                   
-                  <small class="text-muted"> - Diubah <time>23 Nov 2022</time></small>
+                  <small class="text-muted"> - Diubah <time>20 Dec 2022</time></small>
                 </div>
-                <h4 class="card-title mb-3 text-white">Text Editor Faforit Saya</h4>
+                <h4 class="card-title mb-3 text-white">Cara Buat Login Otomatis Di Ubuntu</h4>
                 <div>
                   <hr>
                   
                   <span class="badge badge-primary">
-                    #<a class="text-white" href="/%20tags/neovim">neovim</a>
+                    #<a class="text-white" href="/%20tags/autologin">autologin</a>
+                  </span>
+                  
+                  <span class="badge badge-primary">
+                    #<a class="text-white" href="/%20tags/ubuntu">ubuntu</a>
                   </span>
                   
                 </div>
@@ -189,56 +193,35 @@
               <p class="text-left text-white">Bismillahirrahmanirrahim <br>Assalamu'alaikum Warahmatullahi Wabarakaatuh.
               </p>
               <div class="post-content text-justify text-white">
-                <p>Pengalaman dan hobi saya menggunakan linux menghantarkan saya dengan yang namanya vim dan neovim.
-Awal mula menggunakan vim maupun neovim membuat saya sangat susah untuk menggunakannya, namun  dengan berjalannya waktu dan mulai terbiasa menggunakan text editor ini membuat saya sangat menikmati menggunakan neovim.</p>
-<h2 id="instalasi-tambahan">Instalasi tambahan</h2>
-<ol>
-<li>Lunarvim</li>
-<li>konfigurasi di (.local/share/lunarvim/lvim)</li>
-<li>terminator</li>
-<li>install lspinstall emmet_ls</li>
-<li>edit init.lua untuk emmet_ls
-<ul>
-<li>tambahakan script berikut ini</li>
-<li>require(&ldquo;lvim.lsp.manager&rdquo;).setup(&ldquo;emmet_ls&rdquo;)</li>
-</ul>
-</li>
-<li>plugin
-<ul>
-<li>mg979/vim-visual-multi</li>
-</ul>
-</li>
-</ol>
-<h2 id="shortcut-yang-sering-digunakan">shortcut yang sering digunakan</h2>
-<ul>
-<li><!-- raw HTML omitted -->ld -&gt; untuk diagnostik error</li>
-<li><!-- raw HTML omitted -->bf -&gt; untuk mencari file di tab yang terbuka</li>
-<li><!-- raw HTML omitted -->f - mencari file dari folder terbuka</li>
-<li>ctrl&gt;
-<ul>
-<li>h -&gt; untuk pindah tab kiri</li>
-<li>l -&gt; untuk pindah tab kanan</li>
-</ul>
-</li>
-</ul>
+                <p>langsung saja cara untuk membuat auto login di ubuntu yakni sebagai berikut:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">cd /etc/systemd/system/getty@tty1.service.d/override.conf
 
+jika belum ada maka buat file tersebut
+ketik perintah berikut pada file overrie.conf:
+
+
+<span style="color:#f92672">[</span>Service<span style="color:#f92672">]</span>
+Type<span style="color:#f92672">=</span>simple
+ExecStart<span style="color:#f92672">=</span>
+ExecStart<span style="color:#f92672">=</span>-/sbin/agetty --autologin ashari --noclear %I <span style="color:#ae81ff">38400</span> linux
+</code></pre></div>
               </div>
               <div class="col-sm-12 mt-3 d-flex-wraper pl-0">
     <h4 class="text-dark">Bagikan Artikel</h4>
     <div class="col-sm-9  d-flex pl-0 pt-2">
            
-        <a href="http://www.facebook.com/sharer.php?u=https%3a%2f%2fasharimidana.github.io%2fblog%2ftext-editor-faforit-saya%2f" target="_blank" class="mr-2">
+        <a href="http://www.facebook.com/sharer.php?u=https%3a%2f%2fasharimidana.github.io%2fblog%2fcara-buat-login-otomatis-di-ubuntu%2f" target="_blank" class="mr-2">
           <img src="/img/share/fb.svg" style="width: 30px;" alt="">
         </a>
         
-        <a href="https://plus.google.com/share?url=https%3a%2f%2fasharimidana.github.io%2fblog%2ftext-editor-faforit-saya%2f" target="_blank" class="mr-2">
+        <a href="https://plus.google.com/share?url=https%3a%2f%2fasharimidana.github.io%2fblog%2fcara-buat-login-otomatis-di-ubuntu%2f" target="_blank" class="mr-2">
           <img src="/img/share/plus.svg" style="width: 30px;" alt="">
         </a>    
         
-        <a href="https://twitter.com/share?url=https%3a%2f%2fasharimidana.github.io%2fblog%2ftext-editor-faforit-saya%2f&text=Simple%20Share%20Buttons&hashtags=simplesharebuttons" target="_blank" class="mr-2">
+        <a href="https://twitter.com/share?url=https%3a%2f%2fasharimidana.github.io%2fblog%2fcara-buat-login-otomatis-di-ubuntu%2f&text=Simple%20Share%20Buttons&hashtags=simplesharebuttons" target="_blank" class="mr-2">
           <img src="/img/share/twiter.svg" style="width: 30px;" alt="">
         </a>
-        <a class="whatsapp" href="whatsapp://send?text=https%3a%2f%2fasharimidana.github.io%2fblog%2ftext-editor-faforit-saya%2f" title="Share this post on Whatsapp" target="_blank" class="mr-2">
+        <a class="whatsapp" href="whatsapp://send?text=https%3a%2f%2fasharimidana.github.io%2fblog%2fcara-buat-login-otomatis-di-ubuntu%2f" title="Share this post on Whatsapp" target="_blank" class="mr-2">
           <img src="/img/share/wa.svg" style="width: 30px;" alt="">
         </a>
     </div>

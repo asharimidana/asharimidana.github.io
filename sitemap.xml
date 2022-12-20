@@ -3,13 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://asharimidana.github.io/tags/autologin/</loc>
+    <lastmod>2022-12-20T06:33:29+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://asharimidana.github.io/blog/</loc>
-    <lastmod>2022-12-10T12:52:58+08:00</lastmod>
+    <lastmod>2022-12-20T06:33:29+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://asharimidana.github.io/blog/cara-buat-login-otomatis-di-ubuntu/</loc>
+    <lastmod>2022-12-20T06:33:29+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://asharimidana.github.io/categories/</loc>
-    <lastmod>2022-12-10T12:52:58+08:00</lastmod>
+    <lastmod>2022-12-20T06:33:29+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://asharimidana.github.io/tags/</loc>
+    <lastmod>2022-12-20T06:33:29+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://asharimidana.github.io/tags/ubuntu/</loc>
+    <lastmod>2022-12-20T06:33:29+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://asharimidana.github.io/categories/ubuntu/</loc>
+    <lastmod>2022-12-20T06:33:29+08:00</lastmod>
   </url>
   
   <url>
@@ -28,27 +53,12 @@
   </url>
   
   <url>
-    <loc>https://asharimidana.github.io/tags/</loc>
-    <lastmod>2022-12-10T12:52:58+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://asharimidana.github.io/categories/ubuntu/</loc>
-    <lastmod>2022-12-10T12:52:58+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://asharimidana.github.io/blog/cara-mengakses-gui-di-ubuntu/</loc>
     <lastmod>2022-12-07T21:31:57+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://asharimidana.github.io/categories/dwm/</loc>
-    <lastmod>2022-12-07T21:31:57+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://asharimidana.github.io/tags/ubuntu/</loc>
     <lastmod>2022-12-07T21:31:57+08:00</lastmod>
   </url>
   

@@ -5,10 +5,28 @@
     <link>https://asharimidana.github.io/tags/</link>
     <description>Recent content in Tags on 307</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 10 Dec 2022 12:52:58 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 20 Dec 2022 06:33:29 +0800</lastBuildDate>
     
 	<atom:link href="https://asharimidana.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>autologin</title>
+      <link>https://asharimidana.github.io/tags/autologin/</link>
+      <pubDate>Tue, 20 Dec 2022 06:33:29 +0800</pubDate>
+      
+      <guid>https://asharimidana.github.io/tags/autologin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ubuntu</title>
+      <link>https://asharimidana.github.io/tags/ubuntu/</link>
+      <pubDate>Tue, 20 Dec 2022 06:33:29 +0800</pubDate>
+      
+      <guid>https://asharimidana.github.io/tags/ubuntu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>desktop</title>
@@ -25,15 +43,6 @@
       <pubDate>Sat, 10 Dec 2022 12:52:58 +0800</pubDate>
       
       <guid>https://asharimidana.github.io/tags/dwm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ubuntu</title>
-      <link>https://asharimidana.github.io/tags/ubuntu/</link>
-      <pubDate>Wed, 07 Dec 2022 21:31:57 +0800</pubDate>
-      
-      <guid>https://asharimidana.github.io/tags/ubuntu/</guid>
       <description></description>
     </item>
     
