@@ -5,10 +5,19 @@
     <link>https://asharimidana.github.io/tags/</link>
     <description>Recent content in Tags on 307</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 20 Dec 2022 06:33:29 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 08 Mar 2023 21:18:25 +0700</lastBuildDate>
     
 	<atom:link href="https://asharimidana.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>rails</title>
+      <link>https://asharimidana.github.io/tags/rails/</link>
+      <pubDate>Wed, 08 Mar 2023 21:18:25 +0700</pubDate>
+      
+      <guid>https://asharimidana.github.io/tags/rails/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>autologin</title>

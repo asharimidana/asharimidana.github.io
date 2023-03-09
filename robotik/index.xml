@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robotiks on 307</title>
+    <link>https://asharimidana.github.io/robotik/</link>
+    <description>Recent content in Robotiks on 307</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 31 Dec 2022 18:56:32 +0800</lastBuildDate>
+    
+	<atom:link href="https://asharimidana.github.io/robotik/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Micropython Instalation</title>
+      <link>https://asharimidana.github.io/robotik/micropython-instalation/</link>
+      <pubDate>Sat, 31 Dec 2022 18:56:32 +0800</pubDate>
+      
+      <guid>https://asharimidana.github.io/robotik/micropython-instalation/</guid>
+      <description>Micropython adalah framework untuk memprogram ESP dan microcontroler dengan menggunakan bahasa python</description>
+    </item>
+    
+  </channel>
+</rss>
